@@ -1,0 +1,1 @@
+To enable the cheat option, set the global variable "cheat" to true
